@@ -1,10 +1,12 @@
 # 06016329 Software Development Tools and Environments
 
-# LAB 2 
+# LAB 2
 
 **StudentID :** 61070108
 **Name :** Boonyisa Liawsiripairod
->King moungkut's institute of technology ladkrabang
+> *[IT @ KMITL](https://www.it.kmitl.ac.th/)*
+
 ```
-print("hello world)
+print("Hello world, IT @ KMITL")
 ```
+[![Alt text](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th/)
